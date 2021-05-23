@@ -1,0 +1,17 @@
+name: AerryHome
+main: tw.Aerry.bukkit.Main.Tutorial
+version: 0.1
+
+author: Aerry
+commands:
+     hallo:
+          usage: /hallo
+     home:
+          usage: /home
+          discription: Go to you Home's
+     sethome:
+          usage: /sethome
+          discription: Set your Home's
+     delhome:
+          usage: /delhome
+          discription: remove your Home's
